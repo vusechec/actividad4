@@ -1,0 +1,57 @@
+
+.parrafo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    background: rgb(236, 233, 240);
+
+}
+
+.imagen{
+    border-radius: 20%;
+
+
+}
+.titulo{
+
+    background: honeydew;
+    
+}
+
+.parrafo2{
+    text-align: left;
+    
+}
+
+
+.box{
+    background: lightcoral;
+    width: 100%;
+    height: 300%;
+    display: flex;
+    justify-content: left;
+
+}
+
+.box2{
+    background: rgb(158, 204, 154);
+    width: 100%;
+    height: 300%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.titulo2{
+    background: seagreen;
+}
+
+.box3{
+    background: rgb(153, 92, 161);
+    width: 100%;
+    height: 300%;
+    display: flex;
+    justify-content: center;
+
+
+}
